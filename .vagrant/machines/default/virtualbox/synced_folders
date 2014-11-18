@@ -1,0 +1,1 @@
+{"nfs":{"/home/vagrant/code/mks":{"type":"nfs","guestpath":"/home/vagrant/code/mks","hostpath":"/Users/rahulsharma/code/mks","disabled":false,"map_uid":501,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"3140890055"}},"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/rahulsharma/code/mks","disabled":false}}}
